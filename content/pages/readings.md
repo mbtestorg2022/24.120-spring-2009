@@ -238,7 +238,7 @@ Holton, Richard. "Rational Resolve." _The Philosophical Review_ 113 (2004): 507-
 Addiction I
 {{< tdclose >}}
 {{< tdopen >}}
-Yaffe, Gideon. "Recent Work on Addiction and Responsible Agency." _Philosophy and Public Affairs_ 30, no. 2 (Spring 2001): 178-221. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://muse.jhu.edu/journals/philosophy_and_public_affairs/v030/30.2yaffe.pdf))
+Yaffe, Gideon. "Recent Work on Addiction and Responsible Agency." _Philosophy and Public Affairs_ 30, no. 2 (Spring 2001): 178-221. ([PDF](http://muse.jhu.edu/journals/philosophy_and_public_affairs/v030/30.2yaffe.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -362,9 +362,9 @@ Wegner, Daniel M., and T. Wheatley. "Apparent Mental Causation: Sources of the E
 
 Wegner, Daniel M. "Précis of The Illusion of Conscious Will (and Commentaries and Reply)." _Behavioral and Brain Sciences_ 27, no. 5 (October 2004): 649-692.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512572) Bayne, Timothy. "Phenomenology and the Feeling of Doing: Wegner on the Conscious Will." In _Does Consciousness Cause Behavior?_ Edited by Susan Pockett, William P. Banks, and Shaun Gallagher. Cambridge, MA: MIT Press, 2009, pp. 169-186. ISBN: 9780262512572. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/7350/4f5dcc63d1617fd8e4a6d439be1ba09a6c8d.pdf))
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262512572) Bayne, Timothy. "Phenomenology and the Feeling of Doing: Wegner on the Conscious Will." In _Does Consciousness Cause Behavior?_ Edited by Susan Pockett, William P. Banks, and Shaun Gallagher. Cambridge, MA: MIT Press, 2009, pp. 169-186. ISBN: 9780262512572. ([PDF](https://pdfs.semanticscholar.org/7350/4f5dcc63d1617fd8e4a6d439be1ba09a6c8d.pdf))
 
-Mele, Alfred R. "Free Will: Action Theory Meets Neuroscience." Working Paper, Florida State University, 2007. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](http://www.summer12.isc.uqam.ca/page/docs/readings/Mele-Alfred/Mele.pdf))
+Mele, Alfred R. "Free Will: Action Theory Meets Neuroscience." Working Paper, Florida State University, 2007. ([PDF](http://www.summer12.isc.uqam.ca/page/docs/readings/Mele-Alfred/Mele.pdf))
 
 
 {{< tdclose >}}
@@ -474,7 +474,7 @@ Moral judgment and motivation
 
 Nichols, Shaun. "Norms with Feeling." _Cognition_ 84 (2002): 221-236.
 
-Haidt, Jonathan. "The Emotional Dog and its Rational Tail: A Social Intuitionist Approach to Moral Judgment." _Psychological Review_ 108, no. 4 (2001): 814-834. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://en.wikipedia.org/wiki/Psychological_Review))
+Haidt, Jonathan. "The Emotional Dog and its Rational Tail: A Social Intuitionist Approach to Moral Judgment." _Psychological Review_ 108, no. 4 (2001): 814-834. ([PDF](http://en.wikipedia.org/wiki/Psychological_Review))
 
 Greene, Joshua D., Leigh E. Nystrom, Andrew D. Engell, John M. Darley, and Jonathan D. Cohen. "The Neural Bases of Cognitive Conflict and Control in Moral Judgment." _Neuron_ 44 (2004): 389-400.
 
@@ -520,7 +520,7 @@ Moral luck and the Knobe effect
 
 Knobe, Joshua. "[The Concept of Intentional Action: A Case Study in the Uses of Folk Psychology](https://link.springer.com/article/10.1007/s11098-004-4510-0)." _Philosophical Studies_ 130, no. 2 (August 2006): 203-231.
 
-Pettit, Dean, and Joshua Knobe. "The Pervasive Impact of Moral Judgment." _Mind and Language_ forthcoming. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pantheon.yale.edu/~jk762/pervasiveness.pdf))
+Pettit, Dean, and Joshua Knobe. "The Pervasive Impact of Moral Judgment." _Mind and Language_ forthcoming. ([PDF](http://pantheon.yale.edu/~jk762/pervasiveness.pdf))
 
 Nelkin, Dana K. "[Moral Luck](http://plato.stanford.edu/archives/fall2009/entries/moral-luck/)." _The Stanford Encyclopedia of Philosophy (Fall 2009 Edition)_. Edited by Edward N. Zalta. http://plato.stanford.edu/archives/fall2009/entries/moral-luck/.
 
